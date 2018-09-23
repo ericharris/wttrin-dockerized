@@ -15,7 +15,7 @@ This project is a fork of the wttr.in API at https://github.com/chubin/wttr.in.
 ## Requirements
 
 - Openweathermap.org API key
-    - You will need to obtain an API key from openweathermap.org, and add it to the `.wegorc` file in this project. I have provided a temporary key for now.
+    - You will need to obtain an API key from openweathermap.org, and add it to the `.wegorc` file in this project.
 - Docker installed - docker.com
 
 ## Create your docker image

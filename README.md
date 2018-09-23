@@ -51,3 +51,4 @@ You can shut down the docker container by issueing a `CTRL-C` command.
 
 ## Future to-do
 * move the geoip database to a download/unzip function in the Dockerfile to reduce size of this project and keep the db up to date
+* Use a smaller base image geared to python apps to reduce the docker image size

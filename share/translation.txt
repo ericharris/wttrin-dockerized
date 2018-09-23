@@ -1,0 +1,54 @@
+wttr.in is translated in NUMBER_OF_LANGUAGES languages:
+
+    SUPPORTED_LANGUAGES
+
+Translated/improved/corrected by:
+
+    * Armenian:     Aram Bayadyan @aramix, Mikayel Ghazaryan @mkdotam, Grigor Khachatryan @grigortw
+    * Azerbaijani:  Dmytro Nikitiuk, Elsevar Abbasov
+    * Belarusian:   Igor Chubin
+    * Bosnian:      Ismar Kunc @ismarkunc
+    * Catalan:      Angel Jarabo @legna29A
+    * Croatian:     Siniša Kusić @ku5ic
+    * Czech:        Juraj Kakody
+    * Esperanto:    Igor Chubin
+    * Finnish:      @Maxifi
+    * French:       Igor Chubin, @daftaupe 
+    * German:       Igor Chubin, @MAGICC (https://kthx.at)
+    * Greek:        Panayotis Vryonis
+    * Hebrew:       E.R.
+    * Italian:      Diego Maniacco
+    * Icelandic:    Óli G. @dvergur, Skúli Arnlaugsson @Arnlaugsson
+    * Indonesian:   Andria Arisal @andria009
+    * Japanese:     @ryunix
+    * Kazakh:       Akku Tutkusheva, Oleg Tropinin
+    * Korean:       Jeremy Bae @opt9, Jung Winter @res_tin
+    * Latvian:      Gunārs Danovskis
+    * Macedonian:   Matej Plavevski @MatejMecka
+    * Norwegian:    Fredrik Fjeld @fredrikfjeld
+    * Nynorsk:      Kevin Brubeck Unhammer (https://unhammer.org/k/)
+    * Polish:       Wojtek Łukasiewicz @wojtuch (on github) 
+    * Portuguese:   Fernando Bitti Loureiro @fbitti (on github)
+    * Romanian:     Gabriel Moruz
+    * Russian:      Igor Chubin
+    * Spanish:      Fernando Bitti Loureiro @fbitti (on github)
+    * Slovak:       Juraj Kakody
+    * Slovenian:    B.S.
+    * Swedish:      John Eriksson
+    * Serbian:      Milan Stevanović @FathVader
+    * Swahili:      Joel Mukuthu
+    * Turkish:      Atabey Kaygun, Yilmaz @edigu
+    * Ukrainian:    Igor Chubin
+    * Uzbek:        Shukhrat Mukimov
+    * Welsh:        Daniel Thomas
+
+and many many others.
+
+In the not likely case wttr.in is not yet translated in your language 
+you can help with the translation.
+Please start with one of the following steps:
+
+    * Open a GitHub issue: github.com/chubin/wttr.in
+    * Write an email to igor@chub.in
+    * Write PM or tweet to igor_chubin
+

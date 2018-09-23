@@ -1,0 +1,47 @@
+113: Klart                                  : Clear
+113: Sol                                    : Sunny
+116: Til dels skya                          : Partly cloudy
+119: Skya                                   : Cloudy
+122: Overskya                               : Overcast
+143: Dis                                    : Mist
+176: Sjansar for skiftande regn             : Patchy rain possible
+179: Sjansar for skiftande snø              : Patchy snow possible
+182: Sjansar for skiftande sludd            : Patchy sleet possible
+185: Sjansar for skiftande, kald duskregn   : Patchy freezing drizzle possible
+200: Sjansar for tore                       : Thundery outbreaks possible
+227: Snøfokk                                : Blowing snow
+230: Snøstorm                               : Blizzard
+248: Tåke                                   : Fog
+260: Kald tåke                              : Freezing fog
+263: Skiftande, lett duskregn               : Patchy light drizzle
+266: Lett duskregn                          : Light drizzle
+281: Kald duskregn                          : Freezing drizzle
+284: Tung, kald duskregn                    : Heavy freezing drizzle
+293: Skiftande, lett regn                   : Patchy light rain
+296: Lett regn                              : Light rain
+299: Til tider noko regn                    : Moderate rain at times
+302: Noko regn                              : Moderate rain
+305: Til tider tung regn                    : Heavy rain at times
+308: Tung regn                              : Heavy rain
+311: Lett. kald regn                        : Light freezing rain
+314: Moderat eller tung, kald regn          : Moderate or heavy freezing rain
+317: Lett sludd                             : Light sleet
+320: Moderat eller tung sludd               : Moderate or heavy sleet
+323: Skiftande, lett snø                    : Patchy light snow
+326: Lett snø                               : Light snow
+329: Skiftande, moderat snø                 : Patchy moderate snow
+332: Noko snø                               : Moderate snow
+335: Skiftande, kraftige snøfall            : Patchy heavy snow
+338: Kraftige snøfall                       : Heavy snow
+350: Hagl                                   : Ice pellets
+353: Lett regnskur                          : Light rain shower
+356: Moderat eller tung regnskur            : Moderate or heavy rain shower
+359: Styrtregn                              : Torrential rain shower
+362: Lette sluddbyger                       : Light sleet showers
+365: Moderate eller tunge sluddbyger        : Moderate or heavy sleet showers
+368: Lette snøbyger                         : Light snow showers
+371: Moderate eller tunge snøbyger          : Moderate or heavy snow showers
+386: Skiftande, lett regn med tore          : Patchy light rain with thunder
+389: Moderat eller tung regn med tore       : Moderate or heavy rain with thunder
+392: Skiftande, lett snø med tore           : Patchy light snow with thunder
+395: Moderat eller tung snø med tore        : Moderate or heavy snow with thunder

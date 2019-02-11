@@ -215,7 +215,7 @@ def location_canonical_name( location ):
     return location
 
 def show_help():
-    return open(HELP_FILE, 'r').read()
+    return open(HELP_FILE, 'r').read().decode('utf-8')
 
 @app.route('/files/<path:path>')
 def send_static(path):

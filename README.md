@@ -1,5 +1,7 @@
 # Dockerized wttr.in API
 
+This was a learning experiment that I used to learn how to Dockerize an existing application. It has not been updated in over a year, and will now be archived. You are welcome to fork it and use it as you wish!
+
 This project is a fork of the wttr.in API at https://github.com/chubin/wttr.in.
 
 ## Changes to wttr.in
